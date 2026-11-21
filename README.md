@@ -6,7 +6,7 @@
 
 ## 图解与阅读手册
 
-[阅读《岩芯图像质量筛选：项目汇报与初学者手册》公开阅读版（PDF，13 页）](docs/core-image-quality-guide.pdf)
+[阅读《岩芯图像质量筛选：项目汇报与初学者手册》公开阅读版（PDF，13 页）](docs/core-image-quality-guide.pdf) · [直接打开或下载 PDF](https://raw.githubusercontent.com/zhang-zmt/rock-core-image-analysis/main/docs/core-image-quality-guide.pdf)
 
 ### 从原图到审核队列
 
