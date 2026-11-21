@@ -1,0 +1,8 @@
+*
+!*/
+!*.py
+!README.md
+!requirements.txt
+!.gitignore
+__pycache__/
+.venv/
